@@ -1,6 +1,6 @@
 # Historia de España
 
-En este repositorio encontrarás mi pdf y diapositivas sobre Historia de los partidos políticos y corrientes ideológicas de España de 1808 a 2020.
+En este repositorio encontrarás diapositivas (pdf/pptx) que muestran la evolución de los principales particos políticos y corrientes ideológicas presentes en España desde 1808 a 2020. Me he inspirado en este gráfico estilo [mapa de metro elaborado para los partidos políticos de Estados Unidos](https://www.martyduren.com/2016/03/04/a-brief-history-on-american-political-parties/).
 
 ## 1808-1836
 
