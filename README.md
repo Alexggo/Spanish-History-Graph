@@ -93,7 +93,7 @@ De ahí que yo creo que es más acertado hacer la desviación del PP que ha hech
 
 ## @Paleo_nacional sobre falangismo
 
-A mi modo de ver, establecer el origen de las JONS y de FE en el carlismo/integrismo.
+Incorrect, a mi modo de ver, establecer el origen de las JONS y de FE en el carlismo/integrismo.
 
 ## @OmarJayyan sobre el siglo XX.
 
