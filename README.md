@@ -92,6 +92,13 @@ Políticos (de izquierda a derecha): Aznar, Zapatero, Rubalcaba, Rajoy, Sánchez
 
 Anguita, Ibarretxe, Carod Rovira, Mas, Arrimadas, Garzón, Errejón, Uralde, Beiras.
 
+## Trabajo inspirado en este esquema de la historia de los partidos politicos de 1790 a 1880.
+
+En 1880 Walter R. Houghton desarrolló este  esquema. “Diagram of the Rise and Fall of American Political Parties, from 1789 to 1880, inclusive,” from Conspectus of the History of Political Parties and the Federal Government.
+
+![](Timeline_Page_10.jpg.jpg)
+
+
 # Algunos comentarios recogidos de redes sociales que señalan algunas limitaciones de este esquema:
 
 ## @damondejar sobre los siglos XIX y XX
