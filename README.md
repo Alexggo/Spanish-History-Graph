@@ -88,6 +88,10 @@ Moneda de 1868 emitida por el Gobierno Provisional después de la Revolución Gl
 
 Leones del Congreso de los Diputados guardando la sede del poder legislativo.
 
+Políticos (de izquierda a derecha): Aznar, Zapatero, Rubalcaba, Rajoy, Sánchez, Iglesias, Llamazares, Rivera, Abascal, Díez, Lara, Otegi, Puigdemont, Junqueras.
+
+Anguita, Ibarretxe, Carod Rovira, Mas, Arrimadas, Garzón, Errejón, Uralde, Beiras.
+
 # Algunos comentarios recogidos de redes sociales que señalan algunas limitaciones de este esquema:
 
 ## @damondejar sobre los siglos XIX y XX
