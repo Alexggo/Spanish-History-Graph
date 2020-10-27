@@ -6,7 +6,7 @@ En este repositorio encontrarás diapositivas (pdf/pptx) que muestran la evoluci
 
 Empezando con la Guerra de la Independencia (1808-1814). En este período caracterizado por la crisis del Antiguo Régimen tenemos a los partidarios del absolutismo, los moderados, liberales, afrancesados y la formación de las primeras agrupaciones obreras. 1/9
 
-Imágenes (de izquierda a derecha): Muñoz Torrero, Argüelles, Riego, Torrijos, de la Rosa, el Conde de Toreno, Mariana Pineda.
+Imágenes (de izquierda a derecha): Agustina de Aragon, Manuela Malasaña, Muñoz Torrero, Argüelles, Riego, Torrijos, de la Rosa, el Conde de Toreno, Mariana Pineda.
 
 ![](Timeline_Page_1.jpg)
 
