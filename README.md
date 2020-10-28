@@ -32,7 +32,7 @@ Desde 1874 tenemos el periodo de la Restauración. Aquí vemos como dos partidos
 
 ![](Timeline_Page_4.jpg)
 
-Imágenes (de izquierda a derecha): Cánovas, Sagasta, Pablo Iglesias Posse, Anselmo Lorenzo, Sabino Arana, Ferrer Guardia, Cambó, movimiento obrero, Concepción Arenal, Rosalía de Castro, Emilia Pardo Bazán.
+Imágenes (de izquierda a derecha): Cánovas, Sagasta, Pablo Iglesias Posse, Anselmo Lorenzo, Sabino Arana, Ferrer Guardia, Cambó, movimiento obrero, Concepción Arenal, Rosalía de Castro, Emilia Pardo Bazán, Teresa Claramunt.
 
 ## 1908-1934
 
