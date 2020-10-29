@@ -80,4 +80,24 @@ Anguita, Ibarretxe, Carod Rovira, Mas, Arrimadas, Garzón, Errejón, Uralde, Bei
 
 ## Algunos gifs de trenes
 
+![](/gif/1.Salida.gif)
+
 ![](/gif/2MCristina.gif)
+
+![](/gif/3Isabel.gif)
+
+![](/gif/4Restauracion.gif)
+
+![](/gif/5Desatre98.gif)
+
+![](/gif/6.CrisisRest.gif)
+
+![](/gif/7GuerraCivil.gif)
+
+![](/gif/8Franco.gif)
+
+![](/gif/9.Transicion.gif)
+
+![](/gif/10.los90.gif)
+
+![](/gif/11Fin.gif)
