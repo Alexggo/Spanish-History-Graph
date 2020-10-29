@@ -80,23 +80,43 @@ Anguita, Ibarretxe, Carod Rovira, Mas, Arrimadas, Garzón, Errejón, Uralde, Bei
 
 ## Algunos gifs de trenes
 
+Constitucion de Cadiz.
+
 ![](/gif/1.Salida.gif)
+
+La Regente.
 
 ![](/gif/2MCristina.gif)
 
+Isabel II pierde apoyos.
+
 ![](/gif/3Isabel.gif)
+
+La Restauracion.
 
 ![](/gif/4Restauracion.gif)
 
+Desastre del 98
+
 ![](/gif/5Desatre98.gif)
+
+Crisis de la Restauracion
 
 ![](/gif/6.CrisisRest.gif)
 
+Guerra Civil
+
 ![](/gif/7GuerraCivil.gif)
+
+Franco
 
 ![](/gif/8Franco.gif)
 
+Transicion
+
 ![](/gif/9.Transicion.gif)
+
+
 
 ![](/gif/10.los90.gif)
 
