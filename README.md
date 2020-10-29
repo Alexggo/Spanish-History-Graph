@@ -2,11 +2,15 @@
 
 En este repositorio encontrarás diapositivas (pdf/pptx) que muestran la evolución de los principales particos políticos y corrientes ideológicas presentes en España desde 1808 a 2020. Me he inspirado en este gráfico estilo [mapa de metro elaborado para los partidos políticos de Estados Unidos](https://www.martyduren.com/2016/03/04/a-brief-history-on-american-political-parties/).
 
+## Trabajo inspirado en este esquema de la historia de los partidos politicos de 1790 a 1880.
+
+En 1880 Walter R. Houghton desarrolló este  esquema. “Diagram of the Rise and Fall of American Political Parties, from 1789 to 1880, inclusive,” from Conspectus of the History of Political Parties and the Federal Government.
+
+![](Timeline_Page_0.jpg.jpg)
+
 ## 1808-1836
 
 Empezando con la Guerra de la Independencia (1808-1814). En este período caracterizado por la crisis del Antiguo Régimen tenemos a los partidarios del absolutismo, los moderados, liberales, afrancesados y la formación de las primeras agrupaciones obreras. 1/9
-
-Imágenes (de izquierda a derecha): Agustina de Aragon, Manuela Malasaña, Muñoz Torrero, Argüelles, Riego, Torrijos, de la Rosa, el Conde de Toreno, Mariana Pineda.
 
 ![](Timeline_Page_1.jpg)
 
@@ -16,15 +20,11 @@ Con la muerte de Fernando VII y las revoluciones de 1848, aparecen en España nu
 
 ![](Timeline_Page_2.jpg)
 
-Imágenes (de izquierda a derecha): Olózaga, González Bravo, Mendizábal, Narváez, Bravo Murillo, Orense, Madoz, Espartero, O´Donell.
-
 ## 1858-1884
 
 El reinado de Isabel II entrará en una crisis que culminará en el Sexenio Democrático (1868-1874). En 1869 se reconoce el Sufragio Universal (solo el masculino). También tendremos el reinado de Amadeo I y la escisión de socialistas y anarquistas con la I Internacional. 3/9
 
 ![](Timeline_Page_3.jpg)
-
-Imágenes (de izquierda a derecha): Serrano, Prim, Topete, Martos, Zorrilla, Moret, Gálvez, Figueras, Pi i Margall, Salmerón, Castelar.
 
 ## 1884-1910
 
@@ -32,31 +32,17 @@ Desde 1874 tenemos el periodo de la Restauración. Aquí vemos como dos partidos
 
 ![](Timeline_Page_4.jpg)
 
-Imágenes (de izquierda a derecha): Cánovas, Sagasta, Pablo Iglesias Posse, Anselmo Lorenzo, Sabino Arana, Ferrer Guardia, Cambó, movimiento obrero, Concepción Arenal, Rosalía de Castro, Emilia Pardo Bazán, Teresa Claramunt.
-
 ## 1908-1934
 
 Se empieza a complicar la historia. Con la crisis de la Restauración y la dictadura de Primo de Rivera, aparecen nuevas organizaciones políticas que se aglutinarán en torno al Pacto de San Sebastián (1930) resultando en la caída de Alfonso XIII. 5/9
 
 ![](Timeline_Page_5.jpg)
 
-Imágenes (de izquierda a derecha): Antonio Maura, Dato, Canalejas, Conde de Romanones, Prieto, Melquíades Álvarez, Julián Besteiro, Francesc Macià, García Quejido.
-
 ## 1922-1948
 
 Con la Segunda República las mujeres españolas votan por primera vez (1933). El Partido Comunista se funda en 1921, y ERC en 1931. También aparecerán otros partidos nacionalistas y regionalistas. Tras la Guerra Civil la mayoría de partidos son ilegalizados en España. 6/9
 
 ![](Timeline_Page_6.jpg)
-
-Imágenes (de izquierda a derecha y de arriba a abajo): 
-
-Miguel Maura, Alcalá Zamora, Manuel Azaña, Lerroux, Largo Caballero, 
-
-Lluis Companys, Blas Infante, Luis Urrengoetxea, Aguirre, Castelao, 
-
-Marina Ginestà, Victoria Kent, Clara Campoamor, Dolores Ibárruri, Federica Montseny,
-
-Negrín, Andreu Nin, José Díaz,  Ángel Pestaña, Buenaventura Durruti.
 
 ## 1948-1974
 
@@ -92,8 +78,6 @@ Políticos (de izquierda a derecha): Aznar, Zapatero, Rubalcaba, Rajoy, Sánchez
 
 Anguita, Ibarretxe, Carod Rovira, Mas, Arrimadas, Garzón, Errejón, Uralde, Beiras.
 
-## Trabajo inspirado en este esquema de la historia de los partidos politicos de 1790 a 1880.
+## Algunos gifs de trenes
 
-En 1880 Walter R. Houghton desarrolló este  esquema. “Diagram of the Rise and Fall of American Political Parties, from 1789 to 1880, inclusive,” from Conspectus of the History of Political Parties and the Federal Government.
-
-![](Timeline_Page_10.jpg.jpg)
+![](/gif/2MCristina.gif)
